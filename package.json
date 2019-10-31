@@ -1,0 +1,25 @@
+{
+	"name": "publish-example",
+	"version": "0.0.1",
+	"description": "This is an example of a publish package.",
+	"author": "cjking <cjking.marico@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"build": "tsc -p tsconfig.json",
+		"publish:npm": "npm publish"
+	},
+	"devDependencies": {
+		"@nestjs/common": "^6.8.5",
+		"@types/node": "^11.13.22",
+		"ts-node": "^8.4.1",
+		"typescript": "^3.6.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nest-center/publish-example.git"
+	},
+	"bugs": {
+		"url": "https://github.com/nest-center/publish-example/issues"
+	},
+	"homepage": "https://github.com/nest-center/publish-example#readme"
+}
