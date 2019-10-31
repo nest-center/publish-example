@@ -1,6 +1,6 @@
 {
 	"name": "publish-example",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "This is an example of a publish package.",
 	"author": "cjking <cjking.marico@gmail.com>",
 	"license": "MIT",
