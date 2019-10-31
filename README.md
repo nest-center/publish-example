@@ -10,5 +10,5 @@ This is an example of a publish package.
 
 ```shell script
 $ npm run build         # 第一步先编译
-$ npm run publish:npm   # 第二部，发布编译后的包
+$ npm run publish:npm   # 第二步，发布编译后的包
 ```
